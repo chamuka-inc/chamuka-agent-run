@@ -2,6 +2,7 @@
 name = "claude-run-lib"
 version.workspace = true
 edition.workspace = true
+license.workspace = true
 description = "Shared library for claude-run: config, output, runner, pipeline engine"
 
 [dependencies]

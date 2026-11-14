@@ -2,6 +2,7 @@
 name = "claude-run"
 version.workspace = true
 edition.workspace = true
+license.workspace = true
 description = "Non-interactive Claude Code runner with rate-limit retry, verification loops, adversarial review, and YAML pipelines"
 
 [[bin]]

@@ -2,6 +2,7 @@
 name = "claude-run-verify"
 version.workspace = true
 edition.workspace = true
+license.workspace = true
 description = "Generic verify-fix loop subcommand for claude-run"
 
 [dependencies]
