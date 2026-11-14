@@ -1,8 +1,10 @@
-# claude-run
+# Chamuka Agent Run
 
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-Non-interactive CLI that orchestrates [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions. Four composable subcommands — each does one thing, all work together.
+Unattended runner for coding agents with rate-limit retry and verify-fix loops.
+
+Non-interactive CLI that orchestrates [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions. Four composable subcommands, each does one thing, and all work together.
 
 ## Install
 
@@ -147,6 +149,18 @@ make ci       # same as check
 make deploy   # build release + install
 ```
 
+## Contributing
+
+Issues and pull requests are welcome.
+
+## Security
+
+Report vulnerabilities to [security@chamuka.ai](mailto:security@chamuka.ai).
+
 ## License
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+---
+
+Part of [Chamuka Labs](https://chamuka.ai), an applied AI lab.
