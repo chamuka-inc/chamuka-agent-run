@@ -1,5 +1,7 @@
 # claude-run
 
+[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+
 Non-interactive CLI that orchestrates [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions. Four composable subcommands — each does one thing, all work together.
 
 ## Install
@@ -144,3 +146,7 @@ make check    # fmt + clippy + test (full workspace)
 make ci       # same as check
 make deploy   # build release + install
 ```
+
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).

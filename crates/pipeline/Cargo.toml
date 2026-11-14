@@ -2,6 +2,7 @@
 name = "claude-run-pipeline"
 version.workspace = true
 edition.workspace = true
+license.workspace = true
 description = "YAML pipeline orchestrator subcommand for claude-run"
 
 [dependencies]

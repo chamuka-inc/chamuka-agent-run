@@ -2,6 +2,7 @@
 name = "claude-run-retry"
 version.workspace = true
 edition.workspace = true
+license.workspace = true
 description = "Rate-limit retry subcommand for claude-run"
 
 [dependencies]
